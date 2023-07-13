@@ -1,25 +1,18 @@
 # DoYoon
 Junior Software Engineer
 
-## Education
-2022.07. ~ 2023.05.  
-Samsung Software Academy For Youth ([SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp))
-
-2019.09. ~ 2022.02.  
-Inha University (*Bachelor of Science in Electronic Engineerung*)
-
-2015.03. ~ 2022.02.  
-Inha University (*Bachelor of Science in Engineering in Nabal Architecture & Ocean Engineering*)
-
 ## Projects
-[FellingFilling](https://github.com/DooDoo3804/FeelingFilling)  
+[FellingFilling](https://github.com/DooDoo3804/FeelingFilling) (23.04. ~ 23.05.)  
 Savings app based on user's feeling which analysed text and voice.
 
-[Gamemakase](https://github.com/DooDoo3804/Gamemakase)  
+[Gamemakase](https://github.com/DooDoo3804/Gamemakase) (23.02 ~ 23.04.)  
 Personalized steam game recommendation web service based user's game playtime in big data.
 
-[Kiost](https://github.com/DooDoo3804/Kiosk)  
+[Kiosk](https://github.com/DooDoo3804/Kiosk) (23.01. ~ 23.02.)  
 User-friendly kiosk using camera in terms of SW.
+
+[DoJiny](https://github.com/DooDoo3804/Dojiny) (22.11.)  
+Community Web service between directors and moviegoers which has movie recommendation service.
 
 ## Skills
 
