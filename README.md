@@ -2,7 +2,7 @@
 Junior Software Engineer
 
 ## Projects
-[FellingFilling](https://github.com/DooDoo3804/FeelingFilling) (23.04. ~ 23.05.)  
+[FeelingFilling](https://github.com/DooDoo3804/FeelingFilling) (23.04. ~ 23.05.)  
 Savings app based on user's feeling which analysed text and voice.
 
 [Gamemakase](https://github.com/DooDoo3804/Gamemakase) (23.02 ~ 23.04.)  
