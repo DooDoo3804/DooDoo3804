@@ -1,6 +1,6 @@
   <div align="right">
     
-  [![codeWars_프로필](https://www.codewars.com/users/DooDoo3804/badges/micro)](https://www.codewars.com/users/DooDoo3804/badges/micro)
+  [![codeWars_프로필](https://www.codewars.com/users/DooDoo3804/badges/micro)](https://www.codewars.com/users/DooDoo3804)
   [![Solved.ac
   프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=do0327)](https://solved.ac/do0327)
   </div>
